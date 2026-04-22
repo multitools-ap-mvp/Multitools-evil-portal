@@ -1,7 +1,7 @@
 # Apex Multi Tools Evil-Portal
-# v0.3.1
+- v0.3.1
 
-## Evil Twin WiFi access point. 
+## Evil Twin WiFi Access Point.
 ## 30+ Captive Portals & Custom portal options.
 
 ### Including
