@@ -1,12 +1,12 @@
 # Apex Multi Tools Evil-Portal
-- v0.3.1
+- v0.6.1
 
-## Evil Twin WiFi Access Point.
+## Evil-Twin WiFi Access Point.
 ## 30+ Captive Portals & Custom portal options.
 
 ### Including
 ---
-* 30+ Standard 2026 Webpages for login/password harvesting.
+* - 30+ Standard projects for login/password harvesting.
 - incl, Google,Gmail,Facebook.
 
 ---
